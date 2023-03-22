@@ -3,43 +3,48 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name:  |
+        ZhongCheng Li<br/>
+        <span style="font-size:24px">(Harry Li)</span>
+    tagline:  |
+        iOS Developer<br/>
+        <span style="font-size:12px">Back-End & Automatic Developer</span>
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: me@zhgchg.li
+    #phone: 012 345 6789
+    #timezone: Asia/Taipei Timezone
+    #citizenship:
+    website: zhgchg.li #do not add http://
+    linkedin: zhgchgli
+    #xing: alandoe
+    github: zhgchgli
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    medium: blog.zhgchg.li
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+#    languages:
+#      title: Languages
+#      info:
+#        - idiom: English
+#          level: Native
+#
+#        - idiom: French
+#          level: Professional
+#
+#        - idiom: Spanish
+#          level: Professional
 
     interests:
       title: Interests
@@ -54,79 +59,48 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      從網頁後端到 iOS App 再到自動化工具開發，始終保持著探索新事物的熱忱；從工程架構到使用者體驗再到工程管理，勇於突破解決各面向問題；並樂於撰寫文章與大家分享，促進教學相長。<br/>
+      目前專注於 iOS App 開發、App Infrastructure 及撰寫自動化工具腳本。
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Bachelor's degree, Information Management
+        university: National Taiwan University of Science and Technology
+        time: 2012 - 2016
+        details:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Engineer, Platform Team - App
+        time: 2022/01 - Present
+        company: Pinkoi 香港商果翼科技股份有限公司台灣分公司
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: iOS Developer, Platform Team
+        time: 2021/03 - Present
+        company: Pinkoi 香港商果翼科技股份有限公司台灣分公司
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Lead Engineer, iOS Team
+        time: 2021/07 - 2021/12
+        company: Pinkoi 香港商果翼科技股份有限公司台灣分公司
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: iOS Developer
+        time: 2019/12 - 2021/02
+        company: StreetVoice 街聲股份有限公司
+        details: |
+      - role: iOS Developer
+        time: 2017/10 - 2019/10
+        company: 結婚吧一站式婚禮服務平台, 數字科技股份有限公司 (5287.TWO)
+        details: |
+      - role: Back-End Developer
+        time: 2017/02 - 2017/10
+        company: 結婚吧一站式婚禮服務平台 / 518 人力銀行, 數字科技股份有限公司 (5287.TWO)
+        details: |
+      - role: Full Stack Developer (Intern)
+        time: 2015/07 - 2016/07
+        company: FootPoint 踩點趣, 天奕科技資訊股份有限公司 (新創)
+        details: |
 projects:
     title: Projects
     intro: >
@@ -199,7 +173,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Swift
         level: 98%
 
       - name: Javascript & jQuery
