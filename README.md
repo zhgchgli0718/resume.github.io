@@ -1,3 +1,3 @@
 # resume.github.io
 
-http://resume.zhgchg.li/
+https://resume.zhgchg.li/
