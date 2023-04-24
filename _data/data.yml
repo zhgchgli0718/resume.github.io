@@ -49,6 +49,9 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Gymming
+          link: https://zhgchg.li/real/
+          
         - item: Hiking
           link: https://zhgchg.li/real/
 
@@ -69,13 +72,17 @@ career-profile:
     summary: |
       <div style="font-size: 20px;">「樂於分享激勵，並永遠保持著探索新事物的熱忱。」</div><br/>
 
-      高職起自學網頁開發並獲得 <b><a href="https://skillsweek.wdasec.gov.tw/skillsweek/" target="_blank">全國技能競賽</a> - 備取國手</b> 殊榮，畢業於 <b>臺灣科技大學資訊管理系</b>；從後端起家，在新創團隊使用 PHP (Codeingter/Larvel) + MySql 建置過 <a href="https://meet.bnext.com.tw/articles/view/44304" target="_blank">API 及全端 CMS 系統</a>。<br/>
+      從高職時期開始自學網頁程式設計並成功獲得 <b><a href="https://skillsweek.wdasec.gov.tw/skillsweek/" target="_blank">全國技能競賽 - 網頁設計職類</a> - 冠軍及備取國手</b> 殊榮，畢業於 <b>臺灣科技大學資訊管理系</b>；
+      於大學實習期間，為新創團隊獨立開發產品 <a href="https://meet.bnext.com.tw/articles/view/44304" target="_blank">API 與全套後臺 CMS 系統</a>。<br/>
       
-      在<a href="https://addcn.com.tw" target="_blank">數字科技</a>時期，抱持著對新事物的挑戰，在 2017 年主動承擔公司 iOS 開發並轉職 iOS Developer，在邊學邊做之下完成「<b><a href="https://www.marry.com.tw" target="_blank">結婚吧一站式婚禮服務平台</a></b>」iOS App 為產品打下行動平台優勢並保持品質穩定，負責持續維護及功能迭代。<br/>
+      職涯開始於 <b><a href="https://addcn.com.tw" target="_blank">數字科技</a></b>，為公司新創產品「<b><a href="https://www.marry.com.tw" target="_blank">結婚吧一站式婚禮服務平台</a></b> 及 <a href="https://www.518.com.tw" target="_blank">518 人力銀行</a>」維護及開發網站功能；
+      在 <b>2017 年抱持著對新事物挑戰的熱忱</b>，主動承擔新創產品「<a href="https://apps.apple.com/tw/app/%E7%B5%90%E5%A9%9A%E5%90%A7-%E4%B8%8D%E6%89%BE%E6%9C%80%E8%B2%B4-%E5%8F%AA%E6%89%BE%E6%9C%80%E5%B0%8D/id1356057329?ls=1" target="_blank">結婚吧</a>」的 iOS App 開發，在邊做邊自學下完成獨立完成 iOS App 上架，為產品打下行動平台優勢，並藉此 <b>轉職 iOS Developer</b>，負責持續維護及功能迭代<a href="https://apps.apple.com/tw/app/%E7%B5%90%E5%A9%9A%E5%90%A7-%E4%B8%8D%E6%89%BE%E6%9C%80%E8%B2%B4-%E5%8F%AA%E6%89%BE%E6%9C%80%E5%B0%8D/id1356057329?ls=1" target="_blank">結婚吧</a> iOS App。<br/>
       
-      之後加入 <a href="https://streetvoice.com" target="_blank">StreetVoice 街聲</a>的 iOS Developer 行列，主要負責底層重構及導入<a href="https://medium.com/zrealm-ios-dev/avplayer-%E5%AF%A6%E8%B8%90%E6%9C%AC%E5%9C%B0-cache-%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%85%A8-6ce488898003" target="_blank">串流緩存功能</a>為產品 <b>節省約 50% 流量費用</b>。
+      當產品發展趨於穩健後，勇於跳脫舒適圈，加入 <b><a href="https://streetvoice.com" target="_blank">StreetVoice 街聲</a></b> 的 iOS Developers 行列，與 Tech Lead, Junior iOS Developer 一同協作，主要負責底層重構及導入<a href="https://medium.com/zrealm-ios-dev/avplayer-%E5%AF%A6%E8%B8%90%E6%9C%AC%E5%9C%B0-cache-%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%85%A8-6ce488898003" target="_blank">串流緩存功能</a>為產品 <b>節省約 50% 流量費用</b>。
 
-      於 <a href="https://www.pinkoi.com" target="_blank">Pinkoi</a> 任職，除 iOS Developer 身份外，也 <b>勇於挑戰管理一職</b>，先後擔任 <b>iOS Team Lead</b> 及 <b>Platform Team - App Lead</b>；因此除了工程師的<a href="https://medium.com/pinkoi-engineering/%E5%AF%A6%E6%88%B0%E7%B4%80%E9%8C%84-4-%E5%80%8B%E5%A0%B4%E6%99%AF-7-%E5%80%8B-design-patterns-78507a8de6a5" target="_blank">技術貢獻</a>外，也發揮管理職能參與推動各項 App Infra、CI/CD 建設、自動化流程及<a href="https://medium.com/zrealm-ios-dev/zreviewtender-%E5%85%8D%E8%B2%BB%E9%96%8B%E6%BA%90%E7%9A%84-app-reviews-%E7%9B%A3%E6%8E%A7%E6%A9%9F%E5%99%A8%E4%BA%BA-e36e48bb9265" target="_blank">工具開發</a>，提升雙平台穩定性和<a href="https://medium.com/pinkoi-engineering/2021-pinkoi-tech-career-talk-%E9%AB%98%E6%95%88%E7%8E%87%E5%B7%A5%E7%A8%8B%E5%9C%98%E9%9A%8A%E5%A4%A7%E8%A7%A3%E5%AF%86-11f6c8568154" target="_blank">團隊工作效率</a>。
+      完成街聲所負重任後，抱持著對更大規模的商業與團隊渴望，入職 <b><a href="https://www.pinkoi.com" target="_blank">Pinkoi</a></b>；除 iOS Developer 身份外，也開始 <b>挑戰管理一職</b>，先後擔任 <b>iOS Team Lead (約 6 人)</b> 及 <b>Platform Team - App Lead (約 3 人)</b>；因此除了工程師的<a href="https://medium.com/pinkoi-engineering/%E5%AF%A6%E6%88%B0%E7%B4%80%E9%8C%84-4-%E5%80%8B%E5%A0%B4%E6%99%AF-7-%E5%80%8B-design-patterns-78507a8de6a5" target="_blank">技術貢獻</a>外，也發揮管理職能參與推動各項  CI/CD 建設、自動化流程及<a href="https://medium.com/zrealm-ios-dev/zreviewtender-%E5%85%8D%E8%B2%BB%E9%96%8B%E6%BA%90%E7%9A%84-app-reviews-%E7%9B%A3%E6%8E%A7%E6%A9%9F%E5%99%A8%E4%BA%BA-e36e48bb9265" target="_blank">工具開發</a>和人力資源管理，提升雙平台穩定性與<a href="https://medium.com/pinkoi-engineering/2021-pinkoi-tech-career-talk-%E9%AB%98%E6%95%88%E7%8E%87%E5%B7%A5%E7%A8%8B%E5%9C%98%E9%9A%8A%E5%A4%A7%E8%A7%A3%E5%AF%86-11f6c8568154" target="_blank">團隊工作效率</a>。
+
+      除工作之外，也樂於從生活中尋找挑戰、探索靈感並於工作之餘<a href="https://blog.zhgchg.li/" target="_blank">撰寫文章</a>、演講或投入開源專案與他人分享、教學相長。
 
       <br/>
       - 管理職經驗: 1.5年+
@@ -95,6 +102,7 @@ experiences:
         time: 2022/01 - Present · 1 yr 4 mos
         company: Pinkoi 香港商果翼科技股份有限公司台灣分公司
         details: |
+            負責 <a href="https://pinkoi.com" target="_blank">Pinkoi</a>「<a href="https://apps.apple.com/tw/app/pinkoi/id557252416" target="_blank">iOS</a>」與「<a href="https://play.google.com/store/apps/details?id=com.pinkoi&hl=zh_TW&gl=US&pli=1" target="_blank">Android</a>」App:
             - 提升 App 雙平台穩定性
               - 推動導入更多測試及監控環節
               - 推動重構及基礎建設
@@ -105,6 +113,7 @@ experiences:
         time: 2021/03 - Present · 2 yrs 2 mos
         company: Pinkoi 香港商果翼科技股份有限公司台灣分公司
         details: |
+            負責 「<a href="https://apps.apple.com/tw/app/pinkoi/id557252416" target="_blank">Pinkoi</a>」 iOS App:
             - UI 重構
             - WebSocket 工具封裝建置
             - HTML Render 工具封裝建置
@@ -112,49 +121,63 @@ experiences:
             - 監控和自動化工具撰寫
             - CI/CD 建置
             - 導入推播統計提升商業數據準確性
+
+            Swift / Objective-C / Ruby
       - role: Lead Engineer, iOS Team
         time: 2021/07 - 2021/12 · 6 mos
         company: Pinkoi 香港商果翼科技股份有限公司台灣分公司
         details: |
-            - 帶領 iOS 團隊完成公司目標
-            - 搜集並優化 iOS 工作流程
-            - 激勵團隊成員成長
-            - 提升整體工作效率
-            - 導入自動化
+          負責 「<a href="https://pinkoi.com" target="_blank">Pinkoi</a>」 iOS Team:
+          - 管理約 6 人
+          - 帶領 iOS 團隊完成公司目標
+          - 面試、挑選人才
+          - 搜集並優化 iOS 工作流程
+          - 激勵團隊成員成長
+          - 提升整體工作效率
+          - 導入自動化
       - role: iOS Developer
         time: 2019/12 - 2021/02 · 1 yr 3 mos
         company: StreetVoice 街聲股份有限公司
         details: |
-            - 新功能開發、UI 調整優化、Code Review
-            - Crashlytics 不受當機影響的使用者保持在 99.4⁺%
+            負責 「<a href="https://apps.apple.com/tw/app/streetvoice-%E8%A1%97%E8%81%B2-%E6%9A%A2%E8%81%BD%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82-%E6%BC%94%E5%87%BA%E6%B4%BB%E5%8B%95%E9%80%9A%E7%9F%A5/id804704919" target="_blank">StreetVoice</a>」 iOS App:
+            - 新功能開發、UI 調整優化
             - 使用 RxMoya+Codable 重構替換 Objective-C RestKit 網路層
             - Objective-C to Swift
             - 導入自動化腳本提升穩定性
             - 實現串流緩存功能
+
+            Swift / Objective-C
       - role: iOS Developer
         time: 2017/10 - 2019/10 · 2 yrs 1 mo
         company: 結婚吧一站式婚禮服務平台, 數字科技股份有限公司 (5287.TWO)
         details: |
+            負責公司旗下網站 iOS App「<a href="https://apps.apple.com/tw/app/%E7%B5%90%E5%A9%9A%E5%90%A7-%E4%B8%8D%E6%89%BE%E6%9C%80%E8%B2%B4-%E5%8F%AA%E6%89%BE%E6%9C%80%E5%B0%8D/id1356057329?ls=1" target="_blank">結婚吧一站式婚禮服務平台</a>」:
             - 獨立開發完整 APP 上架、功能迭代、問題維護
-            - Crashlytics 不受當機影響的使用者保持在 99.5⁺%
             - Apple Watch APP 開發、來電辨識、推播統計、Defferal Deep link、行事曆...等功能串接開發
-            - 累積安裝次數：100萬⁺ 次
-            - <a href="https://apps.apple.com/tw/app/%E7%B5%90%E5%A9%9A%E5%90%A7-%E4%B8%80%E7%AB%99%E5%BC%8F%E5%A9%9A%E7%A6%AE%E7%B1%8C%E5%82%99app/id1356057329" target="_blank"> APP Store</a> 評價： 4.9 顆星 (3,700⁺)
+
+            Swift
       - role: Back-End Developer
         time: 2017/02 - 2017/10 · 9 mos
         company: 結婚吧一站式婚禮服務平台 / 518 人力銀行, 數字科技股份有限公司 (5287.TWO)
         details: |
+          負責公司旗下網站「<a href="https://www.marry.com.tw" target="_blank">結婚吧一站式婚禮服務平台</a>」及「<a href="https://www.518.com.tw" target="_blank">518 人力銀行</a>」:
           - 網站維護及功能開發
           - 後台報表分析、CMS 功能開發
           - 網站安全檢測
           - 撰寫自動化腳本、爬蟲
+
+          PHP / MariaDB / Python
       - role: Full Stack Developer (Intern)
         time: 2015/07 - 2016/07 · 1 yr
         company: FootPoint 踩點趣, 天奕科技資訊股份有限公司 (新創)
         details: |
+          獨立負責主產品「<a href="https://meet.bnext.com.tw/articles/view/44304" target="_blank">FootPoint 行動導客 APP</a>」:
           - App API 開發與資料庫建置
           - 全套後台管理 CMS 系統建置
-          - 產品服務超過 5萬⁺ 名會員
+
+          後端技術: PHP / Laravel 5 / CodeIgniter 2 / MariaDB<br/>
+          前端技術: HTML 5 / CSS 3 / JavaScript / JQuery / Ajax / RWD / Semantic UI / Bootstrap
+
 projects:
     title: Open-Source Projects
     intro: >
@@ -239,6 +262,11 @@ oss:
       - title: 15 Mins Career Talk @ 2022 Pinkoi 2022 Open House for GenZ
         link: "https://medium.com/zrealm-ios-dev/pinkoi-2022-open-house-for-genz-15-mins-career-talk-4b9d09cea5f0"
         tagline: "Pinkoi Developers’ Night 2022 年末交流會 — 15 分鐘職涯分享演講"
+
+      - title:  104 履歷診療室 Giver @ 2023 ~ 至今
+        link: "https://beagiver.104.com.tw/profile/2yiVicxMGQ?pageTag=overview"
+        tagline: "履歷健診、職涯諮詢"
+
 
 skills:
     title: Skills &amp; Proficiency
